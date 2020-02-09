@@ -6,8 +6,8 @@ DESC: 현재 영화 예매순위 1~10위 영화를 네이버와 다음에서 평
 daum과 naver 패키지는 프로젝트를 진행하기 위한 연습용 예제 코드  
 
 ### :star:1.Use Tools  
-  + Language&Library: JAVA, jsoup, Mybatis, Oracle, sql
-  + IDE: Eclipse, SqlDeveloper**  
+  + Language&Library: HTML, CSS
+  + IDE: Sublime Text  
   
 ### :star:2.Use Tools  
 1.네이버 예매순위 1-10위 영화제목과 네이버코드 수집  
